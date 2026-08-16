@@ -1,6 +1,6 @@
-# Currency Update Tasks
+# GitHub Hosting Tasks
 
-- [x] Audit budget and pricing references for dollar amounts.
-- [x] Replace booking budget ranges with Ghanaian cedis (GHS / GH₵).
-- [x] Confirm no dollar currency references remain in the frontend.
-- [x] Validate the booking page and save a new checkpoint.
+- [ ] Inspect whether GitHub CLI or the project GitHub export integration is authenticated.
+- [ ] Determine the target GitHub owner and repository name if not already configured.
+- [ ] Export the current Upper Echelon Media source to GitHub.
+- [ ] Confirm whether GitHub Pages deployment is suitable or recommend keeping Manus hosting.
