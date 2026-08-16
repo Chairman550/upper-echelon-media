@@ -49,7 +49,7 @@ export default function Home() {
 
       <section className="hero section-grid" id="top">
         <div className="hero-copy">
-          <p className="eyebrow"><span className="eyebrow-rule" /> Independent media studio <span className="eyebrow-number">001</span></p>
+          <p className="eyebrow"><span className="eyebrow-rule" /> Remote media &amp; storytelling <span className="eyebrow-number">001</span></p>
           <h1>Make the<br /><em>signal</em><br />impossible<br />to miss.</h1>
           <p className="hero-intro">Upper Echelon Media builds the strategy, stories, and visual worlds that move brands from present to unforgettable.</p>
           <a href="#contact" className="text-link">Find your signal <ArrowUpRight size={17} /></a>
